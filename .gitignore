@@ -1,6 +1,9 @@
 # Local .terraform directories
 **/.terraform/*
 
+
+*wordpress*
+
 # .tfstate files
 *.tfstate
 *.tfstate.*
